@@ -1,0 +1,41 @@
+Javascript Object -> It is a Collection of Key Value Pairs enlosed within {}
+
+property -> (key : value)
+
+let sumit = {
+    name:"Sumit",
+    age:23,
+    isMarried:false,
+    greet: function () {
+        console.log("Hello");
+    }
+}
+
+3 -> Attributes -> Value
+1 -> Method 
+
+Features of Object
+1) Ordered
+2) Indexed (Key Based)
+3) It does not allow duplicate keys but allows duplicate values
+4) Mutable / Changeable -> Update, add and Delete
+
+Types of Objects
+1) User Defined Object
+2) Built - in Object
+
+document
+console
+JSON
+Math
+
+
+
+
+
+
+
+
+
+
+
